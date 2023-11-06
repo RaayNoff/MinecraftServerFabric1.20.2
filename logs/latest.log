@@ -1,0 +1,154 @@
+[11:50:00] [main/INFO]: Loading Minecraft 1.20.2 with Fabric Loader 0.14.24
+[11:50:00] [main/INFO]: Loading 55 mods:
+	- architectury 10.0.8
+	- fabric-api 0.90.7+1.20.2
+	   |-- fabric-api-base 0.4.33+fce67b32a0
+	   |-- fabric-api-lookup-api-v1 1.6.42+b1792f7da0
+	   |-- fabric-biome-api-v1 13.0.14+b1792f7da0
+	   |-- fabric-block-api-v1 1.0.12+73761d2ea0
+	   |-- fabric-block-view-api-v2 1.0.1+73761d2ea0
+	   |-- fabric-blockrenderlayer-v1 1.1.43+f4b7e424a0
+	   |-- fabric-client-tags-api-v1 1.1.4+86b12645a0
+	   |-- fabric-command-api-v1 1.2.37+f71b366fa0
+	   |-- fabric-command-api-v2 2.2.16+b1792f7da0
+	   |-- fabric-commands-v0 0.2.54+df3654b3a0
+	   |-- fabric-containers-v0 0.1.75+df3654b3a0
+	   |-- fabric-content-registries-v0 5.0.5+b1792f7da0
+	   |-- fabric-convention-tags-v1 1.5.8+b1792f7da0
+	   |-- fabric-crash-report-info-v1 0.2.20+f4b7e424a0
+	   |-- fabric-data-generation-api-v1 13.1.5+b1792f7da0
+	   |-- fabric-dimensions-v1 2.1.57+b1792f7da0
+	   |-- fabric-entity-events-v1 1.5.26+b1792f7da0
+	   |-- fabric-events-interaction-v0 0.6.10+b1792f7da0
+	   |-- fabric-events-lifecycle-v0 0.2.69+df3654b3a0
+	   |-- fabric-game-rule-api-v1 1.0.42+a44e16a6a0
+	   |-- fabric-item-api-v1 2.1.33+b1792f7da0
+	   |-- fabric-item-group-api-v1 4.0.15+e3d2bf3fa0
+	   |-- fabric-key-binding-api-v1 1.0.38+f4b7e424a0
+	   |-- fabric-keybindings-v0 0.2.36+df3654b3a0
+	   |-- fabric-lifecycle-events-v1 2.2.27+b1792f7da0
+	   |-- fabric-loot-api-v2 2.1.1+3ba460fba0
+	   |-- fabric-message-api-v1 6.0.2+e3d2bf3fa0
+	   |-- fabric-mining-level-api-v1 2.1.55+f4b7e424a0
+	   |-- fabric-model-loading-api-v1 1.0.6+b1792f7da0
+	   |-- fabric-models-v0 0.4.5+9386d8a7a0
+	   |-- fabric-networking-api-v1 3.0.11+bff13c85a0
+	   |-- fabric-object-builder-api-v1 12.1.2+2ff98d3ba0
+	   |-- fabric-particles-v1 1.1.4+f4b7e424a0
+	   |-- fabric-recipe-api-v1 2.0.8+52b3ebe5a0
+	   |-- fabric-registry-sync-v0 4.0.6+b1792f7da0
+	   |-- fabric-renderer-api-v1 3.2.1+2034447ca0
+	   |-- fabric-renderer-indigo 1.5.1+2034447ca0
+	   |-- fabric-renderer-registries-v1 3.2.49+df3654b3a0
+	   |-- fabric-rendering-data-attachment-v1 0.3.39+73761d2ea0
+	   |-- fabric-rendering-fluids-v1 3.0.30+f4b7e424a0
+	   |-- fabric-rendering-v0 1.1.52+df3654b3a0
+	   |-- fabric-rendering-v1 3.0.11+b1792f7da0
+	   |-- fabric-resource-conditions-api-v1 2.3.10+e3d2bf3fa0
+	   |-- fabric-resource-loader-v0 0.11.12+b1792f7da0
+	   |-- fabric-screen-api-v1 2.0.12+b1792f7da0
+	   |-- fabric-screen-handler-api-v1 1.3.41+b1792f7da0
+	   |-- fabric-sound-api-v1 1.0.14+f4b7e424a0
+	   |-- fabric-transfer-api-v1 3.3.10+bb1ee60ea0
+	   \-- fabric-transitive-access-wideners-v1 5.0.3+fce67b32a0
+	- fabricloader 0.14.24
+	- fallingtree 5.0.3
+	- java 19
+	- journeymap 5.9.16
+	   \-- journeymap-api-fabric 1.20.2-1.9-fabric-SNAPSHOT
+	- minecraft 1.20.2
+	- noitssimplesorting 0.6.0
+	- quicksort 0.7.0+1.20.2
+	- yet_another_config_lib_v3 3.2.1+1.20.2
+	   |-- com_twelvemonkeys_common_common-image 3.10.0-SNAPSHOT
+	   |-- com_twelvemonkeys_common_common-io 3.10.0-SNAPSHOT
+	   |-- com_twelvemonkeys_common_common-lang 3.10.0-SNAPSHOT
+	   |-- com_twelvemonkeys_imageio_imageio-core 3.10.0-SNAPSHOT
+	   |-- com_twelvemonkeys_imageio_imageio-metadata 3.10.0-SNAPSHOT
+	   |-- com_twelvemonkeys_imageio_imageio-webp 3.10.0-SNAPSHOT
+	   |-- org_quiltmc_parsers_gson 0.2.1
+	   \-- org_quiltmc_parsers_json 0.2.1
+[11:50:00] [main/INFO]: SpongePowered MIXIN Subsystem Version=0.8.5 Source=file:/D:/MinecraftServerFabric1.20.2/libraries/net/fabricmc/sponge-mixin/0.12.5+mixin.0.8.5/sponge-mixin-0.12.5+mixin.0.8.5.jar Service=Knot/Fabric Env=SERVER
+[11:50:00] [main/INFO]: Compatibility level set to JAVA_16
+[11:50:00] [main/INFO]: Compatibility level set to JAVA_17
+[11:50:05] [main/INFO]: Initializing ServerSide Packet Registries
+[11:50:05] [main/INFO]: Initialising noitssimplesorting
+[11:50:05] [main/INFO]: [Quicksort] Loading configuration from config\quicksort.json5
+[11:50:05] [main/INFO]: [Quicksort] Initialized
+[11:50:06] [main/INFO]: Environment: Environment[accountsHost=https://api.mojang.com, sessionHost=https://sessionserver.mojang.com, servicesHost=https://api.minecraftservices.com, name=PROD]
+[11:50:06] [Yggdrasil Key Fetcher/ERROR]: Failed to request yggdrasil public key
+com.mojang.authlib.exceptions.MinecraftClientException: Failed to read from https://api.minecraftservices.com/publickeys due to Connection reset
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:108) ~[authlib-5.0.47.jar:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.get(MinecraftClient.java:57) ~[authlib-5.0.47.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.fetch(YggdrasilServicesKeyInfo.java:94) ~[authlib-5.0.47.jar:?]
+	at com.mojang.authlib.yggdrasil.YggdrasilServicesKeyInfo.lambda$get$1(YggdrasilServicesKeyInfo.java:81) ~[authlib-5.0.47.jar:?]
+	at java.util.concurrent.Executors$RunnableAdapter.call(Executors.java:577) ~[?:?]
+	at java.util.concurrent.FutureTask.runAndReset(FutureTask.java:358) ~[?:?]
+	at java.util.concurrent.ScheduledThreadPoolExecutor$ScheduledFutureTask.run(ScheduledThreadPoolExecutor.java:305) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor.runWorker(ThreadPoolExecutor.java:1144) ~[?:?]
+	at java.util.concurrent.ThreadPoolExecutor$Worker.run(ThreadPoolExecutor.java:642) ~[?:?]
+	at java.lang.Thread.run(Thread.java:1589) ~[?:?]
+Caused by: java.net.SocketException: Connection reset
+	at sun.nio.ch.NioSocketImpl.implRead(NioSocketImpl.java:313) ~[?:?]
+	at sun.nio.ch.NioSocketImpl.read(NioSocketImpl.java:340) ~[?:?]
+	at sun.nio.ch.NioSocketImpl$1.read(NioSocketImpl.java:789) ~[?:?]
+	at java.net.Socket$SocketInputStream.read(Socket.java:1025) ~[?:?]
+	at sun.security.ssl.SSLSocketInputRecord.read(SSLSocketInputRecord.java:483) ~[?:?]
+	at sun.security.ssl.SSLSocketInputRecord.readHeader(SSLSocketInputRecord.java:477) ~[?:?]
+	at sun.security.ssl.SSLSocketInputRecord.decode(SSLSocketInputRecord.java:160) ~[?:?]
+	at sun.security.ssl.SSLTransport.decode(SSLTransport.java:111) ~[?:?]
+	at sun.security.ssl.SSLSocketImpl.decode(SSLSocketImpl.java:1510) ~[?:?]
+	at sun.security.ssl.SSLSocketImpl.readHandshakeRecord(SSLSocketImpl.java:1425) ~[?:?]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:455) ~[?:?]
+	at sun.security.ssl.SSLSocketImpl.startHandshake(SSLSocketImpl.java:426) ~[?:?]
+	at sun.net.www.protocol.https.HttpsClient.afterConnect(HttpsClient.java:578) ~[?:?]
+	at sun.net.www.protocol.https.AbstractDelegateHttpsURLConnection.connect(AbstractDelegateHttpsURLConnection.java:187) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream0(HttpURLConnection.java:1661) ~[?:?]
+	at sun.net.www.protocol.http.HttpURLConnection.getInputStream(HttpURLConnection.java:1585) ~[?:?]
+	at java.net.HttpURLConnection.getResponseCode(HttpURLConnection.java:529) ~[?:?]
+	at sun.net.www.protocol.https.HttpsURLConnectionImpl.getResponseCode(HttpsURLConnectionImpl.java:308) ~[?:?]
+	at com.mojang.authlib.minecraft.client.MinecraftClient.readInputStream(MinecraftClient.java:84) ~[authlib-5.0.47.jar:?]
+	... 9 more
+[11:50:07] [main/INFO]: Loaded 7 recipes
+[11:50:07] [main/INFO]: Loaded 1271 advancements
+[11:50:07] [main/INFO]: Applied 0 biome modifications to 0 of 64 new biomes in 1.186 ms
+[11:50:07] [Server thread/INFO]: Starting minecraft server version 1.20.2
+[11:50:07] [Server thread/INFO]: Loading properties
+[11:50:07] [Server thread/INFO]: Default game type: SURVIVAL
+[11:50:07] [Server thread/INFO]: Generating keypair
+[11:50:07] [Server thread/INFO]: Starting Minecraft server on *:25565
+[11:50:07] [Server thread/INFO]: Using default channel type
+[11:50:07] [Server thread/WARN]: **** SERVER IS RUNNING IN OFFLINE/INSECURE MODE!
+[11:50:07] [Server thread/WARN]: The server will make no attempt to authenticate usernames. Beware.
+[11:50:07] [Server thread/WARN]: While this makes the game possible to play without internet access, it also opens up the ability for hackers to connect with any username they choose.
+[11:50:07] [Server thread/WARN]: To change this, set "online-mode" to "true" in the server.properties file.
+[11:50:07] [Server thread/INFO]: Preparing level "world"
+[11:50:08] [Server thread/INFO]: Preparing start region for dimension minecraft:overworld
+[11:50:10] [Worker-Main-7/INFO]: Preparing spawn area: 0%
+[11:50:10] [Worker-Main-10/INFO]: Preparing spawn area: 0%
+[11:50:10] [Worker-Main-11/INFO]: Preparing spawn area: 0%
+[11:50:10] [Worker-Main-2/INFO]: Preparing spawn area: 0%
+[11:50:10] [Worker-Main-5/INFO]: Preparing spawn area: 0%
+[11:50:11] [Worker-Main-10/INFO]: Preparing spawn area: 23%
+[11:50:11] [Server thread/INFO]: Time elapsed: 2675 ms
+[11:50:11] [Server thread/INFO]: Done (3.444s)! For help, type "help"
+[11:51:18] [Server thread/INFO]: RaayNoff[/127.0.0.1:51579] logged in with entity id 170 at (119.97393359492213, 64.0, -2.570601289289896)
+[11:51:18] [Server thread/INFO]: RaayNoff joined the game
+[11:52:04] [Server thread/INFO]: RaayNoff lost connection: Disconnected
+[11:52:04] [Server thread/INFO]: RaayNoff left the game
+[12:04:44] [Server thread/INFO]: RaayNoff[/127.0.0.1:52210] logged in with entity id 370 at (92.5, 59.5, -4.5)
+[12:04:44] [Server thread/INFO]: RaayNoff joined the game
+[12:31:04] [Server thread/WARN]: RaayNoff moved too quickly! 282.8063689248462,2.0,456.4207556857537
+[12:39:19] [Server thread/INFO]: RaayNoff lost connection: Disconnected
+[12:39:19] [Server thread/INFO]: RaayNoff left the game
+[12:39:23] [Server thread/INFO]: Stopping the server
+[12:39:23] [Server thread/INFO]: Stopping server
+[12:39:23] [Server thread/INFO]: Saving players
+[12:39:23] [Server thread/INFO]: Saving worlds
+[12:39:23] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:overworld
+[12:39:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_nether
+[12:39:24] [Server thread/INFO]: Saving chunks for level 'ServerLevel[world]'/minecraft:the_end
+[12:39:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (world): All chunks are saved
+[12:39:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM-1): All chunks are saved
+[12:39:24] [Server thread/INFO]: ThreadedAnvilChunkStorage (DIM1): All chunks are saved
+[12:39:24] [Server thread/INFO]: ThreadedAnvilChunkStorage: All dimensions are saved
